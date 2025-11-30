@@ -1,2 +1,3 @@
 # Generator-Guided-Synthetic-Speech-for-Robust-Deepfake-Detection
-Combination of real and synthetic speech data allows evaluation on ASVspoof and related benchmarks for generalization and explainability. Expected outcomes include improved robustness, cross-generator consistency, and interpretable reasoning for spoof identification.
+Datasets: https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset (ASVspoof2019), https://www.kaggle.com/datasets/mohammedabdeldayem/avsspoof-2021 (ASVspoof2021)
+
